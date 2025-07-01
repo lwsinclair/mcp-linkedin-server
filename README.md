@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alinaqi-mcp-linkedin-server-badge.png)](https://mseep.ai/app/alinaqi-mcp-linkedin-server)
+
 # LinkedIn Browser MCP Server
 
 A FastMCP-based server for LinkedIn automation and data extraction using browser automation. This server provides a set of tools for interacting with LinkedIn programmatically while respecting LinkedIn's terms of service and rate limits.
